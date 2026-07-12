@@ -1,2 +1,34 @@
-# 73e42148-debt-management-credit-commu
-What if have 24/7 automated responses without touching a server took minutes instead of hours?  Multi-server support with per-server configuration and permission levels. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Debt Management &amp; Credit Community — fully configured and ready to use - Slash comman
+# Debt Management & Credit Community Manager Discord Bot
+
+Automated moderation, welcome flows, role management, and engagement analytics for Debt Management & Credit communities. Purpose-built for Debt Management & Credit community needs.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY00jeTt6Akg881ZicZK0b)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY00jeTt6Akg881ZicZK0b)
+
